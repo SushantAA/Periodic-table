@@ -1,0 +1,32 @@
+body{
+    background-color: teal;
+}
+#table{
+    display: inline-block;
+}
+.table_elements{
+    /* display: inline; */
+    background-color: palegreen;
+    height: 4rem;
+    width: 4rem;
+    display: inline-block;
+}
+.h{
+    background-color: palegreen;
+    height: 4rem;
+    width: 4rem;
+    justify-self: start;
+    /* display: inline-block; */
+}
+.he{
+    background-color: palegreen;
+    height: 4rem;
+    width: 4rem;
+    justify-self: stretch;
+    /* display: inline-block; */
+}
+#period1{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
